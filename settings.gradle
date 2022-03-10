@@ -1,0 +1,2 @@
+rootProject.name = "AutoBuy"
+include ':app'
